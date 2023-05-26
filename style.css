@@ -1,0 +1,29 @@
+.flex-container {
+    display: flex;
+}
+
+.flex-container {
+display: inline-flex;
+border: 2px solid white;
+margin-top: 10px;
+}
+
+.flex-item{
+    text-align: center;
+    font-size: 0.7sm;
+    color: azure;
+    padding: 1.5sm;
+}
+
+.color1 {
+background-color: blueviolet;
+}
+
+.color2{
+    background-color: blue;
+}
+
+.color3{
+    background-color: yellow;
+}
+
